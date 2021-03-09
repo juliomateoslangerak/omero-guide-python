@@ -5,6 +5,7 @@ dependencies:
   - pip
   # ome: minimal dependencies required to use the Python API
   - omero-py
+  - omero-rois
   - pip:
     - ome-zarr
     - dask-image
